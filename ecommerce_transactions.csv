@@ -1,4 +1,4 @@
-Transaction_ID,Customer_ID,Product,Amount,Date
+Transaction_ID,Customer_ID,Product,Amount,Date_of_purchase
 1,1364,Headphones,372.94,2023-01-01
 2,1915,Tablet,1837.11,2023-01-02
 3,1958,Phone,229.17,2023-01-03
